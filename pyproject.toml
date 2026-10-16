@@ -7,6 +7,7 @@ name = "inventory-sq-iterative"
 version = "0.1.0"
 description = "Educational (s,Q) iterative optimizer for stochastic demand and fixed lead time"
 readme = "README.md"
+license = { text = "AGPL-3.0-or-later" }
 requires-python = ">=3.11"
 dependencies = ["scipy>=1.11"]
 
